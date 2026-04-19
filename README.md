@@ -1,5 +1,7 @@
 # CUDA Image Processing Capstone
 
+Demo Video Link: https://youtu.be/5KeDv0V4u08
+
 ## Purpose
 The goal of this project is to accelerate image processing using GPU hardware. Specifically, I developed a CUDA C++ pipeline to read a high-resolution image, transfer the pixel data to the GPU, apply a grayscale conversion filter using parallel threads, and save the resulting image.
 
